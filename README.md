@@ -2,8 +2,8 @@
 ##
 
 - 🔭 Hoje trabalho com Java back-end
-- 🌱 Estudando Java, Angular, Spring boot e Mysql
-- 📫 Entre em contato no email: jonathanesampaio@gmail.com
+- 👨‍🎓 Cursando ADS na FATEC IPIRANGA
+- 🌱 Java, Angular, Spring boot e Mysql
 - 🚀 I go the next level
 
  <div>
