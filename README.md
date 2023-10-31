@@ -1,7 +1,7 @@
 ### Faala dev !! Sou o Jonathan Sampaio 🙂
 ##
 
-- 🔭 Hoje trabalho com Java back-end
+- 🔭 Hoje trabalho como FullStack Angular e Java usando Spring boot
 - 👨‍🎓 Cursando Tecnologia da Informação na Univesp
 - 🌱 Java, Angular, Spring boot, Mysql, Oracle e Sql Server
 - 🚀 I go the next level
