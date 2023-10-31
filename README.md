@@ -2,8 +2,8 @@
 ##
 
 - 🔭 Hoje trabalho com Java back-end
-- 👨‍🎓 Cursando ADS na FATEC IPIRANGA
-- 🌱 Java, Angular, Spring boot e Mysql
+- 👨‍🎓 Cursando Tecnologia da Informação na Univesp
+- 🌱 Java, Angular, Spring boot, Mysql, Oracle e Sql Server
 - 🚀 I go the next level
 
  <div>
